@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MasjidFirebaseApp</string>
+    <string name="fab_string">Tambah Jamaah</string>
+    <string name="ed_hint_nama">Nama Jamaah</string>
+    <string name="ed_hint_alamat">Alamat Jamaah</string>
+    <string name="send_success">Berhasil ditambah</string>
+    <string name="send_error">Gagal ditambah</string>
+    <string name="title">Title</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="tgl_input">Tanggal Input</string>
+    <string name="update">Update Jamaah</string>
+    <string name="tambah">Tambah Jamaah</string>
+    <string name="empty_field">Form tidak boleh kosong</string>
+    <string name="added">Data jamaah berhasil disimpan!</string>
+    <string name="updated">Data jamaah berhasil diupdate!</string>
+    <string name="pilih_aksi">Pilih Aksi</string>
+    <string name="delete">Hapus</string>
+    <string name="deleted">Data berhasil dihapus!</string>
+    <string name="cari">Cari</string>
+    <string name="no_jamaah">Jamaah tidak ditemukan</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Title</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="tgl_input">Tanggal Input</string>
+    <string name="empty_field">Form tidak boleh kosong</string>
+</resources>
